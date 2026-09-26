@@ -31,3 +31,5 @@ and updating their paths in Power Query.
 The workbook includes saved data for exploring the dashboards without
 refreshing. VBA buttons require macros to be enabled; enable them only
 after reviewing and trusting the workbook.
+  ## Dashboard Preview
+[View all four dashboards (PDF)](Real_Estate_Dashboard_Preview%20%281%29.pdf)
